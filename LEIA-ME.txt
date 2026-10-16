@@ -1,0 +1,26 @@
+PATRICIA — UMA COZINHA PARA FICAR
+Apresentação reformulada em 16 de outubro de 2026.
+
+Abra index.html no navegador. Mantenha index.html, styles.css, slides.js,
+app.js e a pasta assets juntos. Funciona sem internet.
+
+A apresentação percorre 11 vistas renderizadas, uma por slide.
+O estudo axonométrico sem renderização foi retirado da apresentação.
+A vista geral renderizada continua no último slide.
+
+CONTROLES
+• Setas na tela ou no teclado: slide anterior e próximo.
+• Home / End: primeiro e último slide.
+• Todas as vistas: índice de miniaturas para escolher qualquer imagem.
+• Mostrar marcações / Ocultar marcações (M): liga ou desliga os pontos.
+  As marcações começam ocultas. A escolha se mantém ao trocar de slide.
+• Clique nos pontos para abrir as explicações; Escape fecha a explicação.
+• Ampliar imagem: aproximação de 100% a 300% e arraste com zoom ativo.
+• Tela cheia (F): ativa a tela cheia, quando disponível no navegador.
+• Escape: fecha a imagem ampliada ou o índice.
+• No celular: deslize sobre a imagem para mudar de slide.
+• Salvar em PDF, no índice: imprime as 11 vistas em páginas separadas.
+
+A versão anterior está preservada em:
+revisao-2026-10-16/apresentacao-anterior/
+Os renders e os arquivos de revisão anteriores foram preservados.
